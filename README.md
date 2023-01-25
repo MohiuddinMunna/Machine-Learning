@@ -1,4 +1,3 @@
-Project Title: Sentiment Analysis of Comments in Social Media
 This machine learning project is 'Sentiment Analysis of Comments in Social Media' based on NLP.
 In this project, we evaluates a sentiment analysis study that was conducted on 999 Facebook posts and 162980 tweets, which were then combined and further processed.
 This study included several enhancement methods, including feature extraction, classification algorithms, NLP techniques, and more, including the ability to recognize polarity.
